@@ -1,0 +1,5 @@
+letras = ('E', 'P', 'N', 'H', 'B', 'A', 'O', 'R', 'Z', 'C', 'D', 'W',              'G', 'V', 'F', 'U', 'L', 'I', 'X', 'Y', 'M', 'K', 'S', 'T', 'Q')
+mgc = 'XPTO FHI'
+chave = gera_chave_espiral(letras, mgc,'r' , faz_pos (4, 4) )
+result = compara_chaves(chave, [['N', 'B', 'A', 'R', 'Z'], ['E', 'Y', 'M', 'K', 'C'], ['I', 'L', 'Q', 'S', 'D'], ['H', 'U', 'V', 'G', 'W'], ['F', 'O', 'T', 'P', 'X']])
+result

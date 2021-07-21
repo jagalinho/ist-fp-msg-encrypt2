@@ -1,0 +1,3 @@
+pos = faz_pos(0,5)
+l = linha_pos(pos)
+l

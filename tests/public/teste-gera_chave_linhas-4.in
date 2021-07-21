@@ -1,0 +1,4 @@
+letras = ('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'A', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X')
+mgc =  "MENSAGEM GERACAO DE CHAVE"
+chave = gera_chave_linhas(letras, mgc)
+chave

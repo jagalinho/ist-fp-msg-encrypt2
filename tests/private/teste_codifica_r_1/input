@@ -1,0 +1,3 @@
+resul = codifica_r((0, 2), (3, 3))
+resul
+

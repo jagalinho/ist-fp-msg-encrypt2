@@ -1,0 +1,2 @@
+resul = pos_iguais(faz_pos(8,9), faz_pos(2*5, 7+2))
+resul

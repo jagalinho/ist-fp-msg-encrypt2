@@ -1,0 +1,2 @@
+resul = codifica_l(faz_pos(2, 1), faz_pos(2, 4), 1)
+resul

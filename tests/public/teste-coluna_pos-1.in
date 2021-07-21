@@ -1,0 +1,3 @@
+pos = faz_pos(0,5)
+c = coluna_pos(pos)
+c

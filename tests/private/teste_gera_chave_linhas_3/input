@@ -1,0 +1,6 @@
+letras = ('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z')
+mgc =  "MENSAGEM GERACAO DE CHAVE"
+chave = gera_chave_linhas(letras, mgc)
+result = compara_chaves(chave, [['M', 'E', 'N', 'S', 'A'], ['G', 'R', 'C', 'O', 'D'], ['H', 'V', 'B', 'F', 'I'], ['K', 'L', 'P', 'Q', 'T'], ['U', 'W', 'X', 'Y', 'Z']])
+result
+

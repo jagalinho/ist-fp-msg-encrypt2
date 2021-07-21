@@ -1,0 +1,2 @@
+resul = codifica_r(faz_pos(0, 1), faz_pos(3, 3))
+resul

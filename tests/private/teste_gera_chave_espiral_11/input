@@ -1,0 +1,4 @@
+letras = ('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W')
+mgc =  "MENSAGEM GERACAO DE CHAVE"
+chave = gera_chave_espiral(letras, mgc, 'r', (1,0))
+

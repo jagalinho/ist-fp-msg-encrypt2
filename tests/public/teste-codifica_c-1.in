@@ -1,0 +1,2 @@
+resul = codifica_c(faz_pos(2, 4), faz_pos(4, 4), 1)
+resul

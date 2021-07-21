@@ -1,0 +1,5 @@
+letras = ('E', 'P', 'N', 'H', 'B', 'A', 'O', 'R', 'Z', 'C', 'D', 'W', 'G', 'V', 'F', 'U', 'L', 'I', 'X', 'Y', 'M', 'K', 'S', 'T', 'Q')
+mgc = 'XPTO FHI'
+chave = gera_chave_linhas(letras, mgc)
+result = compara_chaves(chave, [['X', 'P', 'T', 'O', 'F'], ['H', 'I', 'E', 'N', 'B'], ['A', 'R', 'Z', 'C', 'D'], ['W', 'G', 'V', 'U', 'L'], ['Y', 'M', 'K', 'S', 'Q']])
+result
